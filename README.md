@@ -53,6 +53,8 @@ Remember the password and the port number with which you set up the database ser
 12) Perform migrations and migrate the model to Postgres database.
     ```
     python manage.py makemigrations
+    ```
+    ```
     python manage.py migrate
      ```
 13) Run the command from navigating to the root project directory in the terminal. <br>
